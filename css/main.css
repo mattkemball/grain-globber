@@ -15,9 +15,9 @@ html {
 }
 
 .grains li {
-	padding-bottom: 15px;
-	margin-bottom: 10px;
-	overflow: hidden;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+  overflow: hidden;
 }
 
 .grains img {
@@ -28,12 +28,12 @@ html {
 }
 
 .grains h2 {
-	font-size: 1em;
-	margin: 0;
-
+  font-size: 1em;
+  margin: 0;
 }
 
-.grains p { 
-	font-style: italic;
-	margin: 0;
+.grains p {
+
+  font-style: italic;
+  margin: 0;
 }
